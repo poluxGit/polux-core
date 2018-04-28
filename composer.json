@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Polux\\Core\\" : "src"
+		}
+	},
+	"name" : "polux/polux-core",
+	"type" : "project",
+	"description" : "Core du framework",
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=7.2"
+	}
+}
