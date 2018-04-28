@@ -8,5 +8,6 @@ namespace Polux\Core\Internal\Interfaces;
  */
 interface IModel
 {
+    public function loadModel():bool;
 }
 

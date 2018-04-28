@@ -13,8 +13,7 @@ namespace Polux\Core\Internal\Interfaces;
  * @author PoLuX
  */
 interface IDatabaseConnection
-{
-    
+{    
     public function exec():int;
     public function query():int;
 }

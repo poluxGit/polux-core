@@ -1,0 +1,14 @@
+{
+	"DICO-LOAD_ERR-FILE_NOTEXISTS" : {
+		"paramCount": 1,
+		"message"	: "Dictionnary can't be loaded. File '%s' can't be reach."
+	},
+	"DICO-LOAD_ERR-GENERIC" : {
+		"paramCount": 1,
+		"message"	: "Un exception occured during loading a Dictionnary. Details : '%s'."
+	},
+	"DICO-GET_ERR-KEY_NOT_EXISTS" : {
+		"paramCount": 1,
+		"message"	: "Key '%s' doesn't exists into Dictionnary."
+	}
+}
